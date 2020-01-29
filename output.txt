@@ -195,6 +195,7 @@ odd_9.txt
 
 data/superheros:
 avengers
+guardians
 justice_league
 original
 
@@ -205,15 +206,20 @@ black_widow.txt
 captain_america.txt
 captain_marvel.txt
 doctor_strange.txt
+drax.txt
 falcon.txt
-guardians
+gamora.txt
+groot.txt
 hawkeye.txt
 iron_man.txt
+mantis.txt
+rocket_racoon.txt
 spider-man.txt
+star-lord.txt
 thor.txt
 wasp.txt
 
-data/superheros/avengers/guardians:
+data/superheros/guardians:
 drax.txt
 gamora.txt
 groot.txt
